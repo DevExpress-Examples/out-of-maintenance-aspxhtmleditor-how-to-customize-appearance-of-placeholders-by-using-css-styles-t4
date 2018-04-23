@@ -1,0 +1,10 @@
+﻿.dxhePlaceholder {
+    background-color: yellow;
+}
+.dxhePlaceholder:hover {
+    background-color: orange;
+}
+.dxhePlaceholder.dxheSelected {
+    background-color: red !important;
+    color: white !important;
+}
