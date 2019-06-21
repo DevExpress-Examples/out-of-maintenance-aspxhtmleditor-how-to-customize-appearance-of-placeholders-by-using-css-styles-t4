@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxHtmlEditor - How to customize appearance of placeholders by using CSS styles
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t428160/)**
+<!-- run online end -->
 
 
  
